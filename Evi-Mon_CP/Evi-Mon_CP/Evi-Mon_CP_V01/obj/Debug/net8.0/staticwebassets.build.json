@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "ZLZNNT+lb97bsOhYwePZKlKcI8AOUpudypdq7ZrGBEE=",
+  "Source": "Evi-Mon_CP_V01",
+  "BasePath": "_content/Evi-Mon_CP_V01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Evi-Mon_CP_V01\\wwwroot",
+      "Source": "Evi-Mon_CP_V01",
+      "ContentRoot": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\",
+      "BasePath": "_content/Evi-Mon_CP_V01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\1it4onl3.jpg",
+      "SourceId": "Evi-Mon_CP_V01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\",
+      "BasePath": "_content/Evi-Mon_CP_V01",
+      "RelativePath": "Pictures/1it4onl3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hnrafhy0cz",
+      "Integrity": "g+K6kCaahMObJuNcITjj3D+Z/FiYEJe9bEQ4w1kMO/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1it4onl3.jpg"
+    },
+    {
+      "Identity": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\tjkbldk5.jpg",
+      "SourceId": "Evi-Mon_CP_V01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\",
+      "BasePath": "_content/Evi-Mon_CP_V01",
+      "RelativePath": "Pictures/tjkbldk5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5c42mmguwu",
+      "Integrity": "iw+cwDc/he+l25bLYWmKI+Tb9yfYo4/tRRyqw0mbknQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\tjkbldk5.jpg"
+    },
+    {
+      "Identity": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\yaac1yxv.jpg",
+      "SourceId": "Evi-Mon_CP_V01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\",
+      "BasePath": "_content/Evi-Mon_CP_V01",
+      "RelativePath": "Pictures/yaac1yxv#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "432l21flwm",
+      "Integrity": "0BPi+3OVPdRZKzHgXGIhpn8LlSnZoWw9tqMHjHOVAm8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\yaac1yxv.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Pictures/1it4onl3.hnrafhy0cz.jpg",
+      "AssetFile": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\1it4onl3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+K6kCaahMObJuNcITjj3D+Z/FiYEJe9bEQ4w1kMO/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hnrafhy0cz"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/1it4onl3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g+K6kCaahMObJuNcITjj3D+Z/FiYEJe9bEQ4w1kMO/c="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/1it4onl3.jpg",
+      "AssetFile": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\1it4onl3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+K6kCaahMObJuNcITjj3D+Z/FiYEJe9bEQ4w1kMO/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g+K6kCaahMObJuNcITjj3D+Z/FiYEJe9bEQ4w1kMO/c="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/tjkbldk5.5c42mmguwu.jpg",
+      "AssetFile": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\tjkbldk5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iw+cwDc/he+l25bLYWmKI+Tb9yfYo4/tRRyqw0mbknQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5c42mmguwu"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/tjkbldk5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iw+cwDc/he+l25bLYWmKI+Tb9yfYo4/tRRyqw0mbknQ="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/tjkbldk5.jpg",
+      "AssetFile": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\tjkbldk5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iw+cwDc/he+l25bLYWmKI+Tb9yfYo4/tRRyqw0mbknQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iw+cwDc/he+l25bLYWmKI+Tb9yfYo4/tRRyqw0mbknQ="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/yaac1yxv.432l21flwm.jpg",
+      "AssetFile": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\yaac1yxv.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0BPi+3OVPdRZKzHgXGIhpn8LlSnZoWw9tqMHjHOVAm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "432l21flwm"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/yaac1yxv.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0BPi+3OVPdRZKzHgXGIhpn8LlSnZoWw9tqMHjHOVAm8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/yaac1yxv.jpg",
+      "AssetFile": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\yaac1yxv.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0BPi+3OVPdRZKzHgXGIhpn8LlSnZoWw9tqMHjHOVAm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0BPi+3OVPdRZKzHgXGIhpn8LlSnZoWw9tqMHjHOVAm8="
+        }
+      ]
+    }
+  ]
+}

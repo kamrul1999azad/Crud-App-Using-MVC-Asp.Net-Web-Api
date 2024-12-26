@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\1it4onl3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1it4onl3.jpg"
+    },
+    {
+      "Id": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\tjkbldk5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\tjkbldk5.jpg"
+    },
+    {
+      "Id": "E:\\New Project\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP\\Evi-Mon_CP_V01\\wwwroot\\Pictures\\yaac1yxv.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\yaac1yxv.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Evi-Mon_CP_V01.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Evi-Mon_CP_V01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Evi-Mon_CP_V01.props",
+      "PackagePath": "build\\Evi-Mon_CP_V01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Evi-Mon_CP_V01.props",
+      "PackagePath": "buildMultiTargeting\\Evi-Mon_CP_V01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Evi-Mon_CP_V01.props",
+      "PackagePath": "buildTransitive\\Evi-Mon_CP_V01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

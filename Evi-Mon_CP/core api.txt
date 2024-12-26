@@ -1,0 +1,66 @@
+picture-01: 
+yaac1yxv.jpg
+
+picture-02: 
+1it4onl3.jpg
+
+picture-03: 
+tjkbldk5.jpg
+
+
+1. to get master details with child values: 
+	http://localhost:5063/api/Products/Sales/Include
+
+2. to get a single product master details with child values: 
+	http://localhost:5063/api/Products/Sales/Include/3
+
+3. To Insert  new products,by post methods: 
+	http://localhost:5063/api/Products
+
+3.1. how to give the data: 
+{        
+        "productName": "Casing",
+        "productType": 1,
+        "price": 3000.0000,
+        "mfgDate": "2024-01-01T00:00:00",
+        "picture": "tjkbldk5.jpg",
+        "inStock": true,
+        "sales": [
+            {               
+                "sellerName": "Ryans",
+                "quantity": 20                
+            },     
+            {               
+                "sellerName": "StarTech",
+                "quantity": 20    
+            }
+        ]
+    }
+
+4. Put: To update any product details: 
+	http://localhost:5063/api/Products/4
+
+4.1. how to update the data: this is kind of similar to post method, but we need to add particular productid(which we want to update) in parent table as follows: 
+{       
+        "productId":4,  
+        "productName": "Metalic Keyboard",
+        "productType": 1,
+        "price": 2200.0000,
+        "mfgDate": "2024-01-01T00:00:00",
+        "picture": "tjkbldk5.jpg",
+        "inStock": true,
+        "sales": [
+            {               
+                "sellerName": "akjfhasf",
+                "quantity": 30                
+            },     
+            {               
+                "sellerName": "aksdjfjaf",
+                "quantity": 5 
+            }
+        ]
+    }
+
+5. Delete: 
+	http://localhost:5063/api/Products/1
+		

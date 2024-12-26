@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Evi-Mon_CP_V01.props" />
+</Project>
